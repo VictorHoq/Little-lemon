@@ -5,7 +5,7 @@ Esta es la prueba final del curso de Django Web Framework, de Coursera Meta. Rea
 ## Autor
 **Victor Hugo Ocanto Quintero**
 
-*(LinkedIn) (https://www.linkedin.com/in/victorh-ocanto/)
+* [LinkedIn] (https://www.linkedin.com/in/victorh-ocanto/)
 
 
 ## Ver ejemplo en vivo
